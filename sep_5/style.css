@@ -1,0 +1,88 @@
+body{
+    width: 100%;
+    margin: 0;
+    background: url(./background_2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    text-decoration: none;
+    color: white;
+}
+
+.top{
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: gray;
+    text-decoration: none;
+    opacity: .9;
+}
+
+h1{
+    display: flex;
+    margin-left: 20px;
+    font-size: xxx-large;
+    color: #893420;
+}
+
+/* .search a{
+    margin-right: 20px;
+}
+
+.menu a{
+    color: white;
+} */
+
+.search{
+    display: flex;
+    margin-right: 20px;
+}
+
+.search a{
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.menu{
+    display: flex;
+    font-size: 20px;
+}
+.menu p{
+    margin: 0 15px;
+}
+
+/* .menu a{
+    color: white;
+} */
+
+button{
+    width: 200px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    background-color: gray
+}
+
+button p{
+    margin: 0;
+    font-size: 18px;
+}
+
+.p>p{
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+a:hover{
+color: #502ee7;
+}
+
+/* .bac{
+    width: 100%;
+} */
