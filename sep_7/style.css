@@ -1,0 +1,72 @@
+body{
+    padding: 0 300px;
+    position: relative;
+    background-color: black;
+    margin: 0 0;
+}
+
+header{
+    background-color: white;
+}
+
+.main{ 
+    position: relative;
+    background-color: white;
+    height: 657px;
+}
+
+.main__inside{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.main__inside-travel{
+    position: absolute;
+    left: 27%;
+    font-size: 29px;
+    text-align: center;
+    top: 0px;
+    padding: 25px 0px;
+}
+
+.main__inside-h1{
+    margin: 0;
+    font-weight: 100;
+}
+
+.main__inside-pictures-2{
+    margin-top: 65px;
+}
+
+.img{
+    width: 170px;
+    height: 350px;
+    margin: 0 25px;
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.arrow{
+    width: 10px;
+    height: 10px;
+}
+
+.main__inside-pictures-h1{
+    font-size: 25px;
+    margin-left: 25px;
+    font-weight: 100;
+}
+
+.p, .a{
+    font-size: 10px;
+    margin-left: 25px;
+}
+
+.p, .a{
+    opacity: .7;
+}
+
+.a{
+    color: black;
+}
