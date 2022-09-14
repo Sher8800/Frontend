@@ -1,0 +1,10 @@
+align-items (выравнивание по вертикали для конт.)
+align-self (переопределить  выравнивание для дочерних элементов)
+https://via.placeholder.com/150
+https://via.placeholder.com/150x400
+README.md
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://cdn.dribbble.com/userupload/3499400/file/original-51114c461c6e78aa6a419c0db768c4ad.png?compress=1&resize=1600x1200
+https://fonts.google.com/
+https://icons8.com/line-awesome
+https://gist.github.com/Jekins/2bf2d0638163f1294637
